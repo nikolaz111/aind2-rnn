@@ -1,0 +1,8 @@
+opencv-python==3.2.0.6
+matplotlib==2.0.0
+numpy==1.12.0
+scipy==0.18.1
+keras==2.0.2
+scikit-learn==0.18.1
+#tensorflow==1.0.0
+#pip install --ignore-installed --upgrade https://github.com/mind/wheels/releases/download/tf1.1-gpu/tensorflow-1.1.0-cp36-cp36m-linux_x86_64.whl
